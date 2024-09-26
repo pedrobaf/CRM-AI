@@ -1,0 +1,6 @@
+.venv
+.env
+exemplo_groq.py
+exemplo_groq_red_csv.py
+exemplo_chatgpt.py
+exemplo_vectorstorage.py
